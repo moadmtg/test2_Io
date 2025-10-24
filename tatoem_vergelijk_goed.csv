@@ -1,0 +1,661 @@
+Food group,Product,Vergelijkbaar product,Afstand
+Alcoholic beverages,Beer pilsner,Wine white dry,5.130573737692262
+Alcoholic beverages,Beer pilsner,Wine red,5.323617943489317
+Alcoholic beverages,Beer pilsner,Wine rose,5.755354020091221
+Alcoholic beverages,Gin young Dutch,Wine white dry,6.469971847293233
+Alcoholic beverages,Gin young Dutch,Wine rose,6.617582470252502
+Alcoholic beverages,Gin young Dutch,Wine red,7.079301744452167
+Alcoholic beverages,Wine red,Wine white dry,3.8332634598073114
+Alcoholic beverages,Wine red,Wine rose,4.610441203860933
+Alcoholic beverages,Wine red,Beer pilsner,5.323617943489317
+Alcoholic beverages,Wine rose,Wine white dry,2.5545678033238435
+Alcoholic beverages,Wine rose,Wine red,4.610441203860933
+Alcoholic beverages,Wine rose,Beer pilsner,5.755354020091221
+Alcoholic beverages,Wine white dry,Wine rose,2.5545678033238435
+Alcoholic beverages,Wine white dry,Wine red,3.8332634598073114
+Alcoholic beverages,Wine white dry,Beer pilsner,5.130573737692262
+Bread,Wheat baguette white,Wheat bread roll white soft,1.893137186121677
+Bread,Wheat baguette white,Wheat currant bun white,3.111746285500365
+Bread,Wheat baguette white,Wheat bread white water based,3.6133424726726937
+Bread,Multigrain bread white and brown with seeds,Wheat bread roll white soft,3.294973697960193
+Bread,Multigrain bread white and brown with seeds,Wheat currant bun white,3.874266448322707
+Bread,Multigrain bread white and brown with seeds,Wheat baguette white,4.212770607976563
+Bread,Rye bread wholemeal/rye wheat bread brown ,Wheat currant bun white,3.8582688578263347
+Bread,Rye bread wholemeal/rye wheat bread brown ,Wheat baguette white,4.525467157371716
+Bread,Rye bread wholemeal/rye wheat bread brown ,Wheat bread roll white soft,5.034598627582357
+Bread,Wheat bread white water based,Wheat baguette white,3.6133424726726937
+Bread,Wheat bread white water based,Wheat bread roll white soft,3.759030213626992
+Bread,Wheat bread white water based,Wheat currant bun white,4.61124044900462
+Bread,Wheat bread wholemeal fine and coarse,Multigrain bread white and brown with seeds,4.246198168349171
+Bread,Wheat bread wholemeal fine and coarse,Wheat bread roll white soft,5.473060819562727
+Bread,Wheat bread wholemeal fine and coarse,Wheat currant bun white,5.567329571086805
+Bread,Wheat currant bun white,Wheat bread roll white soft,2.60647798492642
+Bread,Wheat currant bun white,Wheat baguette white,3.111746285500365
+Bread,Wheat currant bun white,Rye bread wholemeal/rye wheat bread brown ,3.858268857826335
+Bread,Crispbread ,Wheat currant bun white,6.952201522227766
+Bread,Crispbread ,Multigrain bread white and brown with seeds,7.550672947835435
+Bread,Crispbread ,Wheat bread roll white soft,7.95164884245732
+Bread,Croissant ,Wheat baguette white,5.735257388929956
+Bread,Croissant ,Wheat bread roll white soft,5.737601837477273
+Bread,Croissant ,Wheat currant bun white,6.610239373232954
+Bread,Wheat bread roll white hard,Wheat bread roll white soft,4.775893088298043
+Bread,Wheat bread roll white hard,Wheat bread white water based,4.784126141128601
+Bread,Wheat bread roll white hard,Wheat baguette white,4.868442942510613
+Bread,Wheat bread roll white soft,Wheat baguette white,1.893137186121677
+Bread,Wheat bread roll white soft,Wheat currant bun white,2.60647798492642
+Bread,Wheat bread roll white soft,Multigrain bread white and brown with seeds,3.294973697960193
+Cereals and cereal products,Dough for pizza and savoury pie unprepared,Pasta white boiled,3.3925238978123526
+Cereals and cereal products,Dough for pizza and savoury pie unprepared,Rice white boiled,3.5612799432430875
+Cereals and cereal products,Dough for pizza and savoury pie unprepared,Pancake homemade prepared with margarin,4.460301900534255
+Cereals and cereal products,Flour wheat white,Pasta white boiled,4.29279762123746
+Cereals and cereal products,Flour wheat white,Dough for pizza and savoury pie unprepared,4.664942188578841
+Cereals and cereal products,Flour wheat white,Rice white boiled,5.344431200379002
+Cereals and cereal products,Muesli crunchy plain/w fruit,Oatmeal,6.216249630822287
+Cereals and cereal products,Muesli crunchy plain/w fruit,Dough for pizza and savoury pie unprepared,6.731794441493172
+Cereals and cereal products,Muesli crunchy plain/w fruit,Flour wheat white,6.776498740798039
+Cereals and cereal products,Oatmeal,Flour wheat white,5.917270328947167
+Cereals and cereal products,Oatmeal,Muesli crunchy plain/w fruit,6.216249630822287
+Cereals and cereal products,Oatmeal,Pasta white boiled,6.60897885779942
+Cereals and cereal products,Pancake homemade prepared with margarin,Dough for pizza and savoury pie unprepared,4.460301900534255
+Cereals and cereal products,Pancake homemade prepared with margarin,Pasta white boiled,5.622399273788342
+Cereals and cereal products,Pancake homemade prepared with margarin,Rice white boiled,5.89025790667001
+Cereals and cereal products,Pasta white boiled,Rice white boiled,2.835191008366005
+Cereals and cereal products,Pasta white boiled,Dough for pizza and savoury pie unprepared,3.3925238978123526
+Cereals and cereal products,Pasta white boiled,Flour wheat white,4.29279762123746
+Cereals and cereal products,Rice brown boiled,Rice white boiled,4.179469627595739
+Cereals and cereal products,Rice brown boiled,Pasta white boiled,4.969262174944383
+Cereals and cereal products,Rice brown boiled,Dough for pizza and savoury pie unprepared,5.135752225710311
+Cereals and cereal products,Rice white boiled,Pasta white boiled,2.835191008366005
+Cereals and cereal products,Rice white boiled,Dough for pizza and savoury pie unprepared,3.5612799432430875
+Cereals and cereal products,Rice white boiled,Rice brown boiled,4.179469627595739
+Cheese,Cheese 20+,Cheese Gouda 48+ ,4.483458135542656
+Cheese,Cheese 20+,Cheese Edam 40+,4.575171347626208
+Cheese,Cheese 20+,Cheese spread 48+ full fat,4.984287790546548
+Cheese,Cheese Edam 40+,Cheese Gouda 48+ ,3.736851887337856
+Cheese,Cheese Edam 40+,Cheese 20+,4.575171347626208
+Cheese,Cheese Edam 40+,Cheese spread 48+ full fat,4.870497574709668
+Cheese,Cheese goat fresh,Cheese Mozzarella made from cow's milk,4.7540294837595
+Cheese,Cheese goat fresh,Cheese spread 48+ full fat,7.1663466853323925
+Cheese,Cheese goat fresh,Cheese Gouda 48+ ,7.764618918995075
+Cheese,Cheese Gouda 48+ ,Cheese Edam 40+,3.736851887337856
+Cheese,Cheese Gouda 48+ ,Cheese 20+,4.483458135542656
+Cheese,Cheese Gouda 48+ ,Cheese Mozzarella made from cow's milk,5.300693921396993
+Cheese,Cheese Mozzarella made from cow's milk,Cheese goat fresh,4.7540294837595
+Cheese,Cheese Mozzarella made from cow's milk,Cheese Gouda 48+ ,5.300693921396993
+Cheese,Cheese Mozzarella made from cow's milk,Cheese spread 48+ full fat,5.401205415583868
+Cheese,Cheese Old Amsterdam 48+,Cheese Gouda 48+ ,5.626583574391543
+Cheese,Cheese Old Amsterdam 48+,Cheese Edam 40+,5.914887459668506
+Cheese,Cheese Old Amsterdam 48+,Cheese 20+,6.989535556382575
+Cheese,Cheese spread 48+ full fat,Cheese Edam 40+,4.870497574709668
+Cheese,Cheese spread 48+ full fat,Cheese 20+,4.984287790546548
+Cheese,Cheese spread 48+ full fat,Cheese Mozzarella made from cow's milk,5.401205415583868
+Cold meat cuts,Bacon rasher streaky,Sausage luncheon meat,4.878789918612777
+Cold meat cuts,Bacon rasher streaky,Salami sausage saveloy,4.974538075808953
+Cold meat cuts,Bacon rasher streaky,Sausage cooked,5.243310757247175
+Cold meat cuts,Beef smoke-dried,Chicken (processed meat product),6.291895038070993
+Cold meat cuts,Beef smoke-dried,Ham lean boiled,6.3434035288311765
+Cold meat cuts,Beef smoke-dried,Bacon rasher streaky,6.343702815625706
+Cold meat cuts,Chicken (processed meat product),Ham shoulder medium fat boiled,5.0010846668900495
+Cold meat cuts,Chicken (processed meat product),Ham lean boiled,5.111829458279236
+Cold meat cuts,Chicken (processed meat product),Bacon rasher streaky,5.550637238033476
+Cold meat cuts,Beef steak tartare spiced filet americain,Sausage luncheon meat,5.408642217468608
+Cold meat cuts,Beef steak tartare spiced filet americain,Liver pate sausage,5.548789925385536
+Cold meat cuts,Beef steak tartare spiced filet americain,Bacon rasher streaky,5.657300764409062
+Cold meat cuts,Ham lean boiled,Ham shoulder medium fat boiled,2.623611221817357
+Cold meat cuts,Ham lean boiled,Sausage luncheon meat,4.869337724696584
+Cold meat cuts,Ham lean boiled,Chicken (processed meat product),5.111829458279236
+Cold meat cuts,Ham shoulder medium fat boiled,Ham lean boiled,2.623611221817357
+Cold meat cuts,Ham shoulder medium fat boiled,Sausage luncheon meat,4.136497977832407
+Cold meat cuts,Ham shoulder medium fat boiled,Chicken (processed meat product),5.0010846668900495
+Cold meat cuts,Liver pate sausage,Sausage luncheon meat,4.683746513509306
+Cold meat cuts,Liver pate sausage,Beef steak tartare spiced filet americain,5.548789925385536
+Cold meat cuts,Liver pate sausage,Sausage cooked,5.837384892011886
+Cold meat cuts,Meatloaf (processed meat product),Sausage luncheon meat,4.277783724547394
+Cold meat cuts,Meatloaf (processed meat product),Sausage cooked,5.191943441782295
+Cold meat cuts,Meatloaf (processed meat product),Salami sausage saveloy,5.241960612467237
+Cold meat cuts,Sausage cooked,Salami sausage saveloy,3.162905611710846
+Cold meat cuts,Sausage cooked,Sausage luncheon meat,3.876101726469768
+Cold meat cuts,Sausage cooked,Meatloaf (processed meat product),5.191943441782295
+Cold meat cuts,Sausage luncheon meat,Sausage cooked,3.876101726469768
+Cold meat cuts,Sausage luncheon meat,Ham shoulder medium fat boiled,4.136497977832407
+Cold meat cuts,Sausage luncheon meat,Meatloaf (processed meat product),4.277783724547394
+Cold meat cuts,Sausage raw beef,Sausage luncheon meat,5.1898362141680305
+Cold meat cuts,Sausage raw beef,Ham shoulder medium fat boiled,5.450808667997338
+Cold meat cuts,Sausage raw beef,Ham lean boiled,5.875835035044109
+Cold meat cuts,Salami sausage saveloy,Sausage cooked,3.162905611710846
+Cold meat cuts,Salami sausage saveloy,Sausage luncheon meat,4.460316130198859
+Cold meat cuts,Salami sausage saveloy,Bacon rasher streaky,4.974538075808953
+Fats and oils,Butter salted,Butter unsalted,2.6111521609776775
+Fats and oils,Butter salted,Low fat margarine 40% fat <17 g sat fa salted,4.204645538408125
+Fats and oils,Butter salted,Oil sunflower seed,5.491981446777863
+Fats and oils,Butter unsalted,Butter salted,2.6111521609776775
+Fats and oils,Butter unsalted,Low fat margarine 40% fat <17 g sat fa salted,4.157167293206849
+Fats and oils,Butter unsalted,Oil sunflower seed,4.813640418878207
+Fats and oils,Frying fat horeca,Oil olive,0.009620426223651201
+Fats and oils,Frying fat horeca,Oil sunflower seed,4.024997626415992
+Fats and oils,Frying fat horeca,Butter unsalted,5.673090265291572
+Fats and oils,Low fat margarine 40% fat <17 g sat fa salted,Butter unsalted,4.157167293206849
+Fats and oils,Low fat margarine 40% fat <17 g sat fa salted,Butter salted,4.204645538408125
+Fats and oils,Low fat margarine 40% fat <17 g sat fa salted,Oil sunflower seed,6.369889522914613
+Fats and oils,Oil olive,Frying fat horeca,0.009620426223651201
+Fats and oils,Oil olive,Oil sunflower seed,4.024986129175309
+Fats and oils,Oil olive,Butter unsalted,5.676686432688271
+Fats and oils,Oil sunflower seed,Oil olive,4.024986129175309
+Fats and oils,Oil sunflower seed,Frying fat horeca,4.024997626415992
+Fats and oils,Oil sunflower seed,Butter unsalted,4.813640418878207
+"Fish, crustacean and shellfish",Cod fillet fried/simmered,Pollock (Atlantic) boiled,4.199828949139045
+"Fish, crustacean and shellfish",Cod fillet fried/simmered,Lemon sole raw,4.255004029410938
+"Fish, crustacean and shellfish",Cod fillet fried/simmered,Salmon tinned,4.4287142930161965
+"Fish, crustacean and shellfish",Fish fingers fried in sunflower oil,Salmon farmed raw,6.603867885491922
+"Fish, crustacean and shellfish",Fish fingers fried in sunflower oil,Salmon farmed raw,6.603867885491922
+"Fish, crustacean and shellfish",Fish fingers fried in sunflower oil,White fish fillet in batter deep-fried in vegetable oil,6.705383830008062
+"Fish, crustacean and shellfish",Herring fillet in tomato sauce tinned,White fish fillet in batter deep-fried in vegetable oil,4.898102818143863
+"Fish, crustacean and shellfish",Herring fillet in tomato sauce tinned,Pangasius bereid in magnetron z toev,5.358749964305814
+"Fish, crustacean and shellfish",Herring fillet in tomato sauce tinned,Trout prepared in microwave oven no ingredients added,5.38832999151629
+"Fish, crustacean and shellfish",Herring pickled (sweet)sour,Salmon farmed raw,5.272602343584552
+"Fish, crustacean and shellfish",Herring pickled (sweet)sour,Salmon farmed raw,5.272602343584552
+"Fish, crustacean and shellfish",Herring pickled (sweet)sour,White fish fillet in batter deep-fried in vegetable oil,5.693271650309701
+"Fish, crustacean and shellfish",Herring salted,Mackerel fillet smoked,3.7247241600498047
+"Fish, crustacean and shellfish",Herring salted,Trout prepared in microwave oven no ingredients added,3.9319165667506235
+"Fish, crustacean and shellfish",Herring salted,White fish fillet in batter deep-fried in vegetable oil,4.541072883142183
+"Fish, crustacean and shellfish",Lemon sole raw,Pangasius bereid in magnetron z toev,3.568681351177268
+"Fish, crustacean and shellfish",Lemon sole raw,Salmon tinned,4.143677663860966
+"Fish, crustacean and shellfish",Lemon sole raw,Salmon tinned,4.143677663860966
+"Fish, crustacean and shellfish",Mackerel fillet smoked,Herring salted,3.7247241600498047
+"Fish, crustacean and shellfish",Mackerel fillet smoked,White fish fillet in batter deep-fried in vegetable oil,4.209108231673724
+"Fish, crustacean and shellfish",Mackerel fillet smoked,Tuna in oil tinned,5.314454022302219
+"Fish, crustacean and shellfish",Pangasius bereid in magnetron z toev,Tilapia raw,2.8504698435966005
+"Fish, crustacean and shellfish",Pangasius bereid in magnetron z toev,Lemon sole raw,3.568681351177268
+"Fish, crustacean and shellfish",Pangasius bereid in magnetron z toev,Trout prepared in microwave oven no ingredients added,4.121943138792231
+"Fish, crustacean and shellfish",Plaice fried,White fish fillet in batter deep-fried in vegetable oil,7.236079219450753
+"Fish, crustacean and shellfish",Plaice fried,Herring fillet in tomato sauce tinned,7.474967451298441
+"Fish, crustacean and shellfish",Plaice fried,Salmon tinned,7.735987397090889
+"Fish, crustacean and shellfish",Pollock (Atlantic) boiled,Cod fillet fried/simmered,4.199828949139045
+"Fish, crustacean and shellfish",Pollock (Atlantic) boiled,White fish fillet in batter deep-fried in vegetable oil,4.4615787375727285
+"Fish, crustacean and shellfish",Pollock (Atlantic) boiled,Salmon farmed raw,4.560108654262829
+"Fish, crustacean and shellfish",Salmon tinned,Salmon tinned,5.960464477539063e-08
+"Fish, crustacean and shellfish",Salmon tinned,White fish fillet in batter deep-fried in vegetable oil,4.000794978681037
+"Fish, crustacean and shellfish",Salmon tinned,Lemon sole raw,4.143677663860966
+"Fish, crustacean and shellfish",Salmon tinned,Salmon tinned,5.960464477539063e-08
+"Fish, crustacean and shellfish",Salmon tinned,White fish fillet in batter deep-fried in vegetable oil,4.000794978681037
+"Fish, crustacean and shellfish",Salmon tinned,Lemon sole raw,4.143677663860966
+"Fish, crustacean and shellfish",Salmon farmed raw,Salmon farmed raw,0.0
+"Fish, crustacean and shellfish",Salmon farmed raw,Trout prepared in microwave oven no ingredients added,3.8503639229602955
+"Fish, crustacean and shellfish",Salmon farmed raw,White fish fillet in batter deep-fried in vegetable oil,4.375577884094388
+"Fish, crustacean and shellfish",Salmon farmed raw,Salmon farmed raw,0.0
+"Fish, crustacean and shellfish",Salmon farmed raw,Trout prepared in microwave oven no ingredients added,3.8503639229602955
+"Fish, crustacean and shellfish",Salmon farmed raw,White fish fillet in batter deep-fried in vegetable oil,4.375577884094388
+"Fish, crustacean and shellfish",Salmon smoked,Salmon smoked,0.0
+"Fish, crustacean and shellfish",Salmon smoked,Herring salted,5.635790758104222
+"Fish, crustacean and shellfish",Salmon smoked,Trout prepared in microwave oven no ingredients added,5.970926677423202
+"Fish, crustacean and shellfish",Salmon smoked,Salmon smoked,0.0
+"Fish, crustacean and shellfish",Salmon smoked,Herring salted,5.635790758104222
+"Fish, crustacean and shellfish",Salmon smoked,Trout prepared in microwave oven no ingredients added,5.970926677423202
+"Fish, crustacean and shellfish",Shrimps Dutch boiled,Salmon tinned,5.177068868387578
+"Fish, crustacean and shellfish",Shrimps Dutch boiled,Salmon tinned,5.177068868387578
+"Fish, crustacean and shellfish",Shrimps Dutch boiled,White fish fillet in batter deep-fried in vegetable oil,5.842332074953447
+"Fish, crustacean and shellfish",Tilapia raw,Pangasius bereid in magnetron z toev,2.850469843596601
+"Fish, crustacean and shellfish",Tilapia raw,Lemon sole raw,4.865152023953883
+"Fish, crustacean and shellfish",Tilapia raw,Trout prepared in microwave oven no ingredients added,5.375777084359095
+"Fish, crustacean and shellfish",Trout prepared in microwave oven no ingredients added,Salmon farmed raw,3.8503639229602955
+"Fish, crustacean and shellfish",Trout prepared in microwave oven no ingredients added,Salmon farmed raw,3.8503639229602955
+"Fish, crustacean and shellfish",Trout prepared in microwave oven no ingredients added,Herring salted,3.9319165667506235
+"Fish, crustacean and shellfish",Tuna in oil tinned,White fish fillet in batter deep-fried in vegetable oil,5.049828011625889
+"Fish, crustacean and shellfish",Tuna in oil tinned,Mackerel fillet smoked,5.314454022302219
+"Fish, crustacean and shellfish",Tuna in oil tinned,Salmon tinned,5.431336473752276
+"Fish, crustacean and shellfish",White fish fillet in batter deep-fried in vegetable oil,Salmon tinned,4.000794978681037
+"Fish, crustacean and shellfish",White fish fillet in batter deep-fried in vegetable oil,Salmon tinned,4.000794978681037
+"Fish, crustacean and shellfish",White fish fillet in batter deep-fried in vegetable oil,Mackerel fillet smoked,4.209108231673724
+Fruits,Apple sauce tinned,Apple sauce tinned,0.0
+Fruits,Apple sauce tinned,Fruit snack Knijpfruit/Slurpfruit,0.33038324527877416
+Fruits,Apple sauce tinned,Grapes with skin ,1.5035486551405388
+Fruits,Apple sauce tinned,Apple sauce tinned,0.0
+Fruits,Apple sauce tinned,Fruit snack Knijpfruit/Slurpfruit,0.33038324527877416
+Fruits,Apple sauce tinned,Grapes with skin ,1.5035486551405388
+Fruits,Apple with skin ,Lemon,2.5418315749804914
+Fruits,Apple with skin ,Pineapple,3.2791082224917476
+Fruits,Apple with skin ,Fruit snack Knijpfruit/Slurpfruit,3.3407202550145234
+Fruits,Apricots with skin,Grapes with skin ,2.477539628677432
+Fruits,Apricots with skin,Melon honeydew,2.679384714560834
+Fruits,Apricots with skin,Fruit snack Knijpfruit/Slurpfruit,2.759794255332701
+Fruits,Avocado,Kiwi fruit green,5.978443178895312
+Fruits,Avocado,Peach without skin,6.1590143830111295
+Fruits,Avocado,Peach without skin,6.1590143830111295
+Fruits,Banana,Mango,6.577108183748635
+Fruits,Banana,Pineapple,6.941542045513221
+Fruits,Banana,Apricots with skin,6.988284399210635
+Fruits,Dates dried,Avocado,6.3494961689772
+Fruits,Dates dried,Figs dried,6.903434193354055
+Fruits,Dates dried,Grapes with skin ,7.725711099736872
+Fruits,Figs dried,Dates dried,6.903434193354055
+Fruits,Figs dried,Grapes with skin ,9.258965823709195
+Fruits,Figs dried,Avocado,9.28162589420342
+Fruits,Figs fresh,Apricots with skin,4.702109912376552
+Fruits,Figs fresh,Apple with skin ,5.544905290196776
+Fruits,Figs fresh,Lemon,5.65321205253741
+Fruits,Fruit snack Knijpfruit/Slurpfruit,Apple sauce tinned,0.33038324527877416
+Fruits,Fruit snack Knijpfruit/Slurpfruit,Apple sauce tinned,0.33038324527877416
+Fruits,Fruit snack Knijpfruit/Slurpfruit,Grapes with skin ,1.3991844595658793
+Fruits,Grapes with skin ,Fruit snack Knijpfruit/Slurpfruit,1.3991844595658793
+Fruits,Grapes with skin ,Apple sauce tinned,1.5035486551405388
+Fruits,Grapes with skin ,Apple sauce tinned,1.5035486551405388
+Fruits,Kiwi fruit green,Strawberries,2.4238611669886403
+Fruits,Kiwi fruit green,Manderins,3.4005535383207004
+Fruits,Kiwi fruit green,Melon honeydew,3.484715287563257
+Fruits,Lemon,Apple with skin ,2.5418315749804914
+Fruits,Lemon,Manderins,2.810808154790483
+Fruits,Lemon,Melon honeydew,2.9420689111911678
+Fruits,Manderins,Strawberries,1.3821389805050057
+Fruits,Manderins,Melon honeydew,1.4361727835658853
+Fruits,Manderins,Apple sauce tinned,1.9489126645714865
+Fruits,Mango,Manderins,2.1527545507647803
+Fruits,Mango,Apple sauce tinned,2.157825923348797
+Fruits,Mango,Apple sauce tinned,2.157825923348797
+Fruits,Melon honeydew,Manderins,1.4361727835658853
+Fruits,Melon honeydew,Strawberries,1.8364756677995655
+Fruits,Melon honeydew,Grapes with skin ,1.8434420168580323
+Fruits,Olives in brine tinned/glass,Olives in brine tinned/glass,0.0
+Fruits,Olives in brine tinned/glass,Grapes with skin ,5.639293041311724
+Fruits,Olives in brine tinned/glass,Mango,5.670585172902644
+Fruits,Olives in brine tinned/glass,Olives in brine tinned/glass,0.0
+Fruits,Olives in brine tinned/glass,Grapes with skin ,5.639293041311724
+Fruits,Olives in brine tinned/glass,Mango,5.670585172902644
+Fruits,Orange,Lemon,4.996753307979392
+Fruits,Orange,Manderins,5.603309758567743
+Fruits,Orange,Strawberries,5.6486030741632165
+Fruits,Peach without skin,Peach without skin,0.0
+Fruits,Peach without skin,Grapes with skin ,1.87606444142461
+Fruits,Peach without skin,Fruit snack Knijpfruit/Slurpfruit,1.9391006482345803
+Fruits,Peach without skin,Peach without skin,0.0
+Fruits,Peach without skin,Grapes with skin ,1.87606444142461
+Fruits,Peach without skin,Fruit snack Knijpfruit/Slurpfruit,1.9391006482345803
+Fruits,Pineapple,Manderins,2.1388699113769265
+Fruits,Pineapple,Strawberries,2.650837464051533
+Fruits,Pineapple,Melon honeydew,2.6840518749768387
+Fruits,Strawberries,Manderins,1.3821389805050057
+Fruits,Strawberries,Melon honeydew,1.8364756677995655
+Fruits,Strawberries,Kiwi fruit green,2.42386116698864
+Legumes,Beans brown canned,Beans brown canned,0.0
+Legumes,Beans brown canned,Peas chick boiled,7.035623639735144
+Legumes,Beans brown canned,Beans brown canned,0.0
+Legumes,Beans brown canned,Peas chick boiled,7.035623639735144
+Legumes,Peas chick boiled,Beans brown canned,7.035623639735144
+Legumes,Peas chick boiled,Beans brown canned,7.035623639735144
+Meat and poultry,Beef frying steak prepared,Pork <5% fat raw ,1.476597909867642
+Meat and poultry,Beef frying steak prepared,Pork 5-14% fat raw ,3.4661813451399066
+Meat and poultry,Beef frying steak prepared,Veal <5% fat raw ,3.8143582123183424
+Meat and poultry,Beef roast prepared,Minced beef raw,2.9424327948418947
+Meat and poultry,Beef roast prepared,Pork <5% fat raw ,3.8330416285118227
+Meat and poultry,Beef roast prepared,Veal <5% fat raw ,3.897149686464934
+Meat and poultry,Beef rump steak prepared,Beef frying steak prepared,6.079750319759183
+Meat and poultry,Beef rump steak prepared,Pork <5% fat raw ,6.260670590877732
+Meat and poultry,Beef rump steak prepared,Pork 5-14% fat raw ,6.984004660557059
+Meat and poultry,Chicken fillet raw,Beef frying steak prepared,4.671885868971002
+Meat and poultry,Chicken fillet raw,Pork <5% fat raw ,4.794315618736676
+Meat and poultry,Chicken fillet raw,Pork 5-14% fat raw ,5.224432580339215
+Meat and poultry,Chicken with skin prepared,Beef roast prepared,4.906791264512352
+Meat and poultry,Chicken with skin prepared,Minced beef raw,5.032615580468419
+Meat and poultry,Chicken with skin prepared,Pork 5-14% fat raw ,5.16070034635614
+Meat and poultry,Hamburger raw,Sausage pork Braadworst prepared,4.67397562739874
+Meat and poultry,Hamburger raw,Minced beef raw,4.993648669335599
+Meat and poultry,Hamburger raw,Pork 5-14% fat raw ,5.786166072571088
+Meat and poultry,Lamb >10 g fat raw ,Chicken with skin prepared,5.356236175978693
+Meat and poultry,Lamb >10 g fat raw ,Hamburger raw,6.189466028412718
+Meat and poultry,Lamb >10 g fat raw ,Minced beef raw,6.264530539779092
+Meat and poultry,Minced beef raw,Beef roast prepared,2.9424327948418947
+Meat and poultry,Minced beef raw,Pork <5% fat raw ,4.742341699250572
+Meat and poultry,Minced beef raw,Pork 5-14% fat raw ,4.7938003767912365
+Meat and poultry,Minced beef/pork shallow fried,Sausage pork Braadworst prepared,5.037170580076974
+Meat and poultry,Minced beef/pork shallow fried,Beef frying steak prepared,5.528021358859538
+Meat and poultry,Minced beef/pork shallow fried,Pork 5-14% fat raw ,5.616444986732648
+Meat and poultry,Pork <5% fat raw ,Beef frying steak prepared,1.476597909867642
+Meat and poultry,Pork <5% fat raw ,Pork 5-14% fat raw ,3.373004175238242
+Meat and poultry,Pork <5% fat raw ,Veal <5% fat raw ,3.569600290128158
+Meat and poultry,Pork 5-14% fat raw ,Veal <5% fat raw ,2.9175316584137385
+Meat and poultry,Pork 5-14% fat raw ,Pork <5% fat raw ,3.373004175238242
+Meat and poultry,Pork 5-14% fat raw ,Beef frying steak prepared,3.4661813451399066
+Meat and poultry,Pork shoulder chop prepared,Minced beef/pork shallow fried,5.921621622786979
+Meat and poultry,Pork shoulder chop prepared,Beef frying steak prepared,6.79804683364967
+Meat and poultry,Pork shoulder chop prepared,Chicken with skin prepared,7.516679429112107
+Meat and poultry,Sausage frankfurter tinned,Sausage frankfurter tinned,0.0
+Meat and poultry,Sausage frankfurter tinned,Pork 5-14% fat raw ,5.931482800381122
+Meat and poultry,Sausage frankfurter tinned,Chicken with skin prepared,6.468717846913181
+Meat and poultry,Sausage frankfurter tinned,Sausage frankfurter tinned,0.0
+Meat and poultry,Sausage frankfurter tinned,Pork 5-14% fat raw ,5.931482800381122
+Meat and poultry,Sausage frankfurter tinned,Chicken with skin prepared,6.468717846913181
+Meat and poultry,Sausage pork Braadworst prepared,Hamburger raw,4.67397562739874
+Meat and poultry,Sausage pork Braadworst prepared,Minced beef/pork shallow fried,5.037170580076974
+Meat and poultry,Sausage pork Braadworst prepared,Minced beef raw,5.222326697789569
+Meat and poultry,Sausage smoked beef cooked,Sausage pork Braadworst prepared,5.741134181644716
+Meat and poultry,Sausage smoked beef cooked,Hamburger raw,6.533299682534861
+Meat and poultry,Sausage smoked beef cooked,Pork 5-14% fat raw ,6.999633909069111
+Meat and poultry,Veal <5% fat raw ,Pork 5-14% fat raw ,2.9175316584137385
+Meat and poultry,Veal <5% fat raw ,Pork <5% fat raw ,3.569600290128158
+Meat and poultry,Veal <5% fat raw ,Beef frying steak prepared,3.814358212318343
+Meat substitutes and dairy substitutes,Coconut milk,Coconut milk,0.0
+Meat substitutes and dairy substitutes,Coconut milk,Drink soya without sugar,4.4760405088666975
+Meat substitutes and dairy substitutes,Coconut milk,Minced meat vegetarian based on mycoprotein unprepared,5.6264094537614815
+Meat substitutes and dairy substitutes,Coconut milk,Coconut milk,0.0
+Meat substitutes and dairy substitutes,Coconut milk,Drink soya without sugar,4.4760405088666975
+Meat substitutes and dairy substitutes,Coconut milk,Minced meat vegetarian based on mycoprotein unprepared,5.6264094537614815
+Meat substitutes and dairy substitutes,Minced meat vegetarian based on mycoprotein unprepared,Coconut milk,5.6264094537614815
+Meat substitutes and dairy substitutes,Minced meat vegetarian based on mycoprotein unprepared,Coconut milk,5.6264094537614815
+Meat substitutes and dairy substitutes,Minced meat vegetarian based on mycoprotein unprepared,Drink soya without sugar,5.6358156360350495
+Meat substitutes and dairy substitutes,Sausage luncheon meat vegetarian fortified with iron and vit B12,Coconut milk,6.383900553290181
+Meat substitutes and dairy substitutes,Sausage luncheon meat vegetarian fortified with iron and vit B12,Coconut milk,6.383900553290181
+Meat substitutes and dairy substitutes,Sausage luncheon meat vegetarian fortified with iron and vit B12,Drink soya without sugar,7.288986368417083
+Meat substitutes and dairy substitutes,Drink soya without sugar,Coconut milk,4.4760405088666975
+Meat substitutes and dairy substitutes,Drink soya without sugar,Coconut milk,4.4760405088666975
+Meat substitutes and dairy substitutes,Drink soya without sugar,Minced meat vegetarian based on mycoprotein unprepared,5.6358156360350495
+Milk and milk products,Buttermilk,Yoghurt low fat with fruit,1.573218664922864
+Milk and milk products,Buttermilk,Milk semi-skimmed,3.747494235771347
+Milk and milk products,Buttermilk,Milk whole,3.7772504730492447
+Milk and milk products,Cream whipping unprepared,Ice cream dairy ,6.798058586813042
+Milk and milk products,Cream whipping unprepared,Custard vanilla full fat,7.860543317516326
+Milk and milk products,Cream whipping unprepared,Custard several flavours full fat,8.303171580264145
+Milk and milk products,Custard several flavours full fat,Custard vanilla full fat,4.043740033190409
+Milk and milk products,Custard several flavours full fat,Ice cream dairy ,5.335226937968145
+Milk and milk products,Custard several flavours full fat,Milk whole,5.5907985441759065
+Milk and milk products,Custard vanilla full fat,Ice cream dairy ,3.475604486450175
+Milk and milk products,Custard vanilla full fat,Milk whole,3.7591524601381674
+Milk and milk products,Custard vanilla full fat,Milk semi-skimmed,3.7904149169595174
+Milk and milk products,Quark full fat,Milk whole,5.222297537117819
+Milk and milk products,Quark full fat,Milk semi-skimmed,6.174734122851312
+Milk and milk products,Quark full fat,Yoghurt low fat with fruit,6.2469739272873674
+Milk and milk products,Ice cream dairy ,Custard vanilla full fat,3.475604486450175
+Milk and milk products,Ice cream dairy ,Milk whole,3.6931269879781854
+Milk and milk products,Ice cream dairy ,Milk chocolate-flavoured semi-skimmed,4.202194860011509
+Milk and milk products,Milk chocolate-flavoured full fat,Milk chocolate-flavoured semi-skimmed,2.937914586073156
+Milk and milk products,Milk chocolate-flavoured full fat,Milk semi-skimmed,3.344145342037212
+Milk and milk products,Milk chocolate-flavoured full fat,Milk whole,4.25164983395379
+Milk and milk products,Milk chocolate-flavoured semi-skimmed,Milk chocolate-flavoured full fat,2.937914586073156
+Milk and milk products,Milk chocolate-flavoured semi-skimmed,Milk whole,3.1806865977115693
+Milk and milk products,Milk chocolate-flavoured semi-skimmed,Milk semi-skimmed,3.3145089032888237
+Milk and milk products,Milk semi-skimmed,Milk whole,1.9039496431192737
+Milk and milk products,Milk semi-skimmed,Milk skimmed,2.7168325635005655
+Milk and milk products,Milk semi-skimmed,Milk chocolate-flavoured semi-skimmed,3.3145089032888237
+Milk and milk products,Milk skimmed,Milk whole,2.6818382575918913
+Milk and milk products,Milk skimmed,Milk semi-skimmed,2.7168325635005655
+Milk and milk products,Milk skimmed,Yoghurt half fat,3.417416757477006
+Milk and milk products,Milk whole,Milk semi-skimmed,1.9039496431192737
+Milk and milk products,Milk whole,Milk skimmed,2.6818382575918913
+Milk and milk products,Milk whole,Milk chocolate-flavoured semi-skimmed,3.1806865977115693
+Milk and milk products,Yoghurt full fat,Milk skimmed,4.41901858724092
+Milk and milk products,Yoghurt full fat,Milk whole,4.740744686192074
+Milk and milk products,Yoghurt full fat,Milk semi-skimmed,5.1040574658410485
+Milk and milk products,Yoghurt half fat,Milk semi-skimmed,3.3679724172694416
+Milk and milk products,Yoghurt half fat,Milk skimmed,3.417416757477006
+Milk and milk products,Yoghurt half fat,Milk chocolate-flavoured full fat,4.282235078723111
+Milk and milk products,Yoghurt low fat with fruit,Buttermilk,1.573218664922864
+Milk and milk products,Yoghurt low fat with fruit,Milk whole,3.521599362156066
+Milk and milk products,Yoghurt low fat with fruit,Milk semi-skimmed,3.968434940477261
+Milk and milk products,Yoghurt low fat,Milk skimmed,4.832832411720585
+Milk and milk products,Yoghurt low fat,Yoghurt half fat,5.17125491195505
+Milk and milk products,Yoghurt low fat,Milk semi-skimmed,5.1828240387900655
+Non-alcoholic beverages,Coffee cappuccino freshly made,Juice apple,7.832490235692117
+Non-alcoholic beverages,Coffee cappuccino freshly made,Juice orange pasteurized,7.836033268765374
+Non-alcoholic beverages,Coffee cappuccino freshly made,Soft drink with sugar with caffeine,8.202485819593477
+Non-alcoholic beverages,Coffee prepared,Tea prepared,1.6270027165271113
+Non-alcoholic beverages,Coffee prepared,Mineral water sparkling and not sparkling ,1.709415771673511
+Non-alcoholic beverages,Coffee prepared,Water ,1.7119505851179095
+Non-alcoholic beverages,Cola light soft drink with caffeine,Soft drink light without caffeine,0.7456680927134787
+Non-alcoholic beverages,Cola light soft drink with caffeine,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,1.0842839527275214
+Non-alcoholic beverages,Cola light soft drink with caffeine,Tea prepared,1.198339100253654
+Non-alcoholic beverages,Ice tea with sugar 5-<7 g CHO,Soft drink light without caffeine,3.589451493086397
+Non-alcoholic beverages,Ice tea with sugar 5-<7 g CHO,Juice drink Dubbelfrisss,3.7574441157924654
+Non-alcoholic beverages,Ice tea with sugar 5-<7 g CHO,Cola light soft drink with caffeine,3.8187701232545685
+Non-alcoholic beverages,Juice drink Dubbelfrisss,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,1.6324938295680833
+Non-alcoholic beverages,Juice drink Dubbelfrisss,Tea prepared,1.7300119977515944
+Non-alcoholic beverages,Juice drink Dubbelfrisss,Water ,1.7466168903140635
+Non-alcoholic beverages,Juice apple,Soft drink with sugar with caffeine,2.2474099907864864
+Non-alcoholic beverages,Juice apple,Juice drink Dubbelfrisss,2.615279788281389
+Non-alcoholic beverages,Juice apple,Juice orange pasteurized,3.0332546966573246
+Non-alcoholic beverages,Juice orange freshly squeezed,Juice orange pasteurized,1.2680387435995708
+Non-alcoholic beverages,Juice orange freshly squeezed,Juice apple,4.072207810748608
+Non-alcoholic beverages,Juice orange freshly squeezed,Soft drink with sugar with caffeine,5.247476509496803
+Non-alcoholic beverages,Juice orange pasteurized,Juice orange freshly squeezed,1.2680387435995708
+Non-alcoholic beverages,Juice orange pasteurized,Juice apple,3.0332546966573246
+Non-alcoholic beverages,Juice orange pasteurized,Soft drink with sugar with caffeine,4.562014955674939
+Non-alcoholic beverages,Fruit drink conc diluted 1 to 7,Juice drink Dubbelfrisss,4.042319633268934
+Non-alcoholic beverages,Fruit drink conc diluted 1 to 7,Soft drink with sugar with caffeine,4.311753004330913
+Non-alcoholic beverages,Fruit drink conc diluted 1 to 7,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,4.459665117908305
+Non-alcoholic beverages,Mineral water sparkling and not sparkling ,Water ,0.16303629931703303
+Non-alcoholic beverages,Mineral water sparkling and not sparkling ,Tea prepared,0.2541203307891332
+Non-alcoholic beverages,Mineral water sparkling and not sparkling ,Soft drink light without caffeine,0.9552160513396961
+Non-alcoholic beverages,Soft drink with sugar with caffeine,Juice drink Dubbelfrisss,1.8912862910994126
+Non-alcoholic beverages,Soft drink with sugar with caffeine,Juice apple,2.2474099907864864
+Non-alcoholic beverages,Soft drink with sugar with caffeine,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,2.37106976548875
+Non-alcoholic beverages,Soft drink light without caffeine,Cola light soft drink with caffeine,0.7456680927134787
+Non-alcoholic beverages,Soft drink light without caffeine,Tea prepared,0.8610826403706816
+Non-alcoholic beverages,Soft drink light without caffeine,Water ,0.9241120391858509
+Non-alcoholic beverages,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,Cola light soft drink with caffeine,1.0842839527275214
+Non-alcoholic beverages,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,Soft drink light without caffeine,1.4640317326095902
+Non-alcoholic beverages,Soft drink with sugar and sweetener 2-<5 CHO with caffeine,Tea prepared,1.527987014855329
+Non-alcoholic beverages,Tea prepared,Water ,0.19492641592504473
+Non-alcoholic beverages,Tea prepared,Mineral water sparkling and not sparkling ,0.2541203307891332
+Non-alcoholic beverages,Tea prepared,Soft drink light without caffeine,0.8610826403706816
+Non-alcoholic beverages,Water ,Mineral water sparkling and not sparkling ,0.1630362993170385
+Non-alcoholic beverages,Water ,Tea prepared,0.19492641592504473
+Non-alcoholic beverages,Water ,Soft drink light without caffeine,0.9241120391858509
+Nuts and seeds,Almonds blanched unsalted,Peanuts unsalted,5.09332141314875
+Nuts and seeds,Almonds blanched unsalted,Walnuts unsalted,5.660841932328098
+Nuts and seeds,Almonds blanched unsalted,Cashew nuts unsalted,6.3569990527784075
+Nuts and seeds,Cashew nuts unsalted,Peanuts unsalted,3.8958839503830864
+Nuts and seeds,Cashew nuts unsalted,Walnuts unsalted,4.706130474242348
+Nuts and seeds,Cashew nuts unsalted,Almonds blanched unsalted,6.3569990527784075
+Nuts and seeds,Hazelnuts unsalted,Peanuts unsalted,5.325875358399322
+Nuts and seeds,Hazelnuts unsalted,Walnuts unsalted,5.54156230051288
+Nuts and seeds,Hazelnuts unsalted,Almonds blanched unsalted,6.516209929711683
+Nuts and seeds,Linseeds,Peanuts unsalted,6.156574836302537
+Nuts and seeds,Linseeds,Almonds blanched unsalted,6.917494599285406
+Nuts and seeds,Linseeds,Cashew nuts unsalted,6.992862815690565
+Nuts and seeds,Peanuts unsalted,Walnuts unsalted,2.9779436408763345
+Nuts and seeds,Peanuts unsalted,Cashew nuts unsalted,3.8958839503830864
+Nuts and seeds,Peanuts unsalted,Almonds blanched unsalted,5.09332141314875
+Nuts and seeds,Pistachio nuts salted,Peanuts unsalted,5.581419513314887
+Nuts and seeds,Pistachio nuts salted,Walnuts unsalted,6.631682141987634
+Nuts and seeds,Pistachio nuts salted,Cashew nuts unsalted,6.747786003178807
+Nuts and seeds,Walnuts unsalted,Peanuts unsalted,2.9779436408763345
+Nuts and seeds,Walnuts unsalted,Cashew nuts unsalted,4.706130474242348
+Nuts and seeds,Walnuts unsalted,Hazelnuts unsalted,5.54156230051288
+Pastry and biscuits,Almond paste filled tarts ,Biscuit fruit,4.153681190644545
+Pastry and biscuits,Almond paste filled tarts ,Cake without butter,5.061733294636656
+Pastry and biscuits,Almond paste filled tarts ,Waffle syrup ,5.5649285618320805
+Pastry and biscuits,Apple pie Dutch with shortbread with butter,Apple pie Dutch with shortbread without butter,4.858573613953923
+Pastry and biscuits,Apple pie Dutch with shortbread with butter,Cake without butter,6.40181536296175
+Pastry and biscuits,Apple pie Dutch with shortbread with butter,Biscuit fruit,6.447183176904889
+Pastry and biscuits,Apple pie Dutch with shortbread without butter,Apple pie Dutch with shortbread with butter,4.858573613953923
+Pastry and biscuits,Apple pie Dutch with shortbread without butter,Biscuit fruit,6.234391102377022
+Pastry and biscuits,Apple pie Dutch with shortbread without butter,Cake without butter,6.258012101556736
+Pastry and biscuits,Biscuit brown/wholemeal,Biscuit fruit,6.151752091994341
+Pastry and biscuits,Biscuit brown/wholemeal,Biscuit,6.683539029192895
+Pastry and biscuits,Biscuit brown/wholemeal,Almond paste filled tarts ,6.799452214182147
+Pastry and biscuits,Biscuit fruit,Cake without butter,4.1168254739828
+Pastry and biscuits,Biscuit fruit,Almond paste filled tarts ,4.153681190644545
+Pastry and biscuits,Biscuit fruit,Biscuit,4.661658266346796
+Pastry and biscuits,Biscuit,Biscuit fruit,4.661658266346796
+Pastry and biscuits,Biscuit,Almond paste filled tarts ,6.2098726794886066
+Pastry and biscuits,Biscuit,Cake without butter,6.27085036344027
+Pastry and biscuits,Cake Dutch spiced Ontbijtkoek,Cake without butter,5.856489270835815
+Pastry and biscuits,Cake Dutch spiced Ontbijtkoek,Biscuit fruit,5.857983762494106
+Pastry and biscuits,Cake Dutch spiced Ontbijtkoek,Waffle syrup ,6.452272565623682
+Pastry and biscuits,Cake made with butter,Cake without butter,4.061397156038149
+Pastry and biscuits,Cake made with butter,Biscuit fruit,5.788511626046988
+Pastry and biscuits,Cake made with butter,Almond paste filled tarts ,6.53615503895744
+Pastry and biscuits,Cake without butter,Cake made with butter,4.061397156038149
+Pastry and biscuits,Cake without butter,Biscuit fruit,4.1168254739828
+Pastry and biscuits,Cake without butter,Waffle syrup ,4.7826642405071675
+Pastry and biscuits,Waffle syrup ,Cake without butter,4.7826642405071675
+Pastry and biscuits,Waffle syrup ,Biscuit fruit,5.155147305284216
+Pastry and biscuits,Waffle syrup ,Almond paste filled tarts ,5.5649285618320805
+Potatoes and tubers,Chips pre-fried frozen unprepared,Potatoes without skin boiled ,5.700558364788682
+Potatoes and tubers,Chips pre-fried frozen unprepared,Potatoes mashed fresh prep with semi-skimmed milk and margarin,6.553826367550378
+Potatoes and tubers,Potatoes mashed fresh prep with semi-skimmed milk and margarin,Potatoes without skin boiled ,3.814576552336996
+Potatoes and tubers,Potatoes mashed fresh prep with semi-skimmed milk and margarin,Chips pre-fried frozen unprepared,6.5538263675503785
+Potatoes and tubers,Potatoes without skin boiled ,Potatoes mashed fresh prep with semi-skimmed milk and margarin,3.814576552336996
+Potatoes and tubers,Potatoes without skin boiled ,Chips pre-fried frozen unprepared,5.700558364788682
+Savoury bread spreads,Salad fish,Hummus natural,5.257240423416864
+Savoury bread spreads,Salad fish,Peanut butter,8.272045319041137
+Savoury bread spreads,Hummus natural,Salad fish,5.257240423416864
+Savoury bread spreads,Hummus natural,Peanut butter,6.923488237162051
+Savoury bread spreads,Peanut butter,Hummus natural,6.923488237162051
+Savoury bread spreads,Peanut butter,Salad fish,8.272045319041137
+Savoury sauces,Gravy 25% fat clear prep with gravy instant powder ,Sauce for chips 25% oil,4.9009016363034705
+Savoury sauces,Gravy 25% fat clear prep with gravy instant powder ,Sauce oriental ready-made in jar/bag,5.263836702886414
+Savoury sauces,Gravy 25% fat clear prep with gravy instant powder ,Sauce tomato ready made jar,6.118487764666803
+Savoury sauces,Sauce for chips 25% oil,Gravy 25% fat clear prep with gravy instant powder ,4.9009016363034705
+Savoury sauces,Sauce for chips 25% oil,Sauce oriental ready-made in jar/bag,6.029675452536975
+Savoury sauces,Sauce for chips 25% oil,Mayonnaise,6.192105517943308
+Savoury sauces,Mayonnaise,Sauce for chips 25% oil,6.192105517943309
+Savoury sauces,Mayonnaise,Sauce tomato ready made jar,6.8523853681151
+Savoury sauces,Mayonnaise,Gravy 25% fat clear prep with gravy instant powder ,7.338820875912902
+Savoury sauces,Sauce oriental ready-made in jar/bag,Sauce tomato ready made jar,3.927854876291009
+Savoury sauces,Sauce oriental ready-made in jar/bag,Gravy 25% fat clear prep with gravy instant powder ,5.263836702886414
+Savoury sauces,Sauce oriental ready-made in jar/bag,Sauce for chips 25% oil,6.029675452536975
+Savoury sauces,Sauce tomato ready made jar,Sauce oriental ready-made in jar/bag,3.927854876291009
+Savoury sauces,Sauce tomato ready made jar,Gravy 25% fat clear prep with gravy instant powder ,6.118487764666803
+Savoury sauces,Sauce tomato ready made jar,Sauce for chips 25% oil,6.209217019129917
+Savoury snacks,Crisps potato ,Snack sausage roll puff pastry,5.846175459332904
+Savoury snacks,Crisps potato ,Popcorn plain popped without oil,6.6625365623620665
+Savoury snacks,Crisps potato ,Croquette meat ragout deep-fried in liquid fat,6.9046076635089895
+Savoury snacks,Croquette meat ragout deep-fried in liquid fat,Snack sausage roll puff pastry,3.4133536982171986
+Savoury snacks,Croquette meat ragout deep-fried in liquid fat,Sausage Dutch Frikandel deep-fried in liquid fat,4.948847383180942
+Savoury snacks,Croquette meat ragout deep-fried in liquid fat,Crisps potato ,6.9046076635089895
+Savoury snacks,Popcorn plain popped without oil,Crisps potato ,6.6625365623620665
+Savoury snacks,Popcorn plain popped without oil,Snack sausage roll puff pastry,7.000258084840833
+Savoury snacks,Popcorn plain popped without oil,Croquette meat ragout deep-fried in liquid fat,7.277820175654135
+Savoury snacks,Snack sausage roll puff pastry,Croquette meat ragout deep-fried in liquid fat,3.4133536982171986
+Savoury snacks,Snack sausage roll puff pastry,Sausage Dutch Frikandel deep-fried in liquid fat,3.7541045938599957
+Savoury snacks,Snack sausage roll puff pastry,Crisps potato ,5.846175459332904
+Savoury snacks,Sausage Dutch Frikandel deep-fried in liquid fat,Snack sausage roll puff pastry,3.754104593859996
+Savoury snacks,Sausage Dutch Frikandel deep-fried in liquid fat,Croquette meat ragout deep-fried in liquid fat,4.948847383180942
+Savoury snacks,Sausage Dutch Frikandel deep-fried in liquid fat,Crisps potato ,7.618017233307397
+"Sugar, sweets and sweet sauces",Chocolate sprinkles milk,Spread chocolate hazelnut,3.5190951476369476
+"Sugar, sweets and sweet sauces",Chocolate sprinkles milk,Spread duo with chocolate,4.034645781443744
+"Sugar, sweets and sweet sauces",Chocolate sprinkles milk,Chocolate sprinkles dark,4.404998833944719
+"Sugar, sweets and sweet sauces",Chocolate sprinkles dark,Spread chocolate hazelnut,2.9572326717917865
+"Sugar, sweets and sweet sauces",Chocolate sprinkles dark,Syrup apple,3.623946153361274
+"Sugar, sweets and sweet sauces",Chocolate sprinkles dark,Chocolate sprinkles milk,4.404998833944719
+"Sugar, sweets and sweet sauces",Chocolate milk,Chocolate sprinkles milk,4.7362848895816505
+"Sugar, sweets and sweet sauces",Chocolate milk,Spread chocolate hazelnut,5.747514274003478
+"Sugar, sweets and sweet sauces",Chocolate milk,Chocolate sprinkles dark,6.966286194194752
+"Sugar, sweets and sweet sauces",Spread duo with chocolate,Spread chocolate hazelnut,3.7499036845477542
+"Sugar, sweets and sweet sauces",Spread duo with chocolate,Chocolate sprinkles milk,4.034645781443744
+"Sugar, sweets and sweet sauces",Spread duo with chocolate,Chocolate sprinkles dark,4.791154540504105
+"Sugar, sweets and sweet sauces",Spread chocolate hazelnut,Chocolate sprinkles dark,2.9572326717917865
+"Sugar, sweets and sweet sauces",Spread chocolate hazelnut,Chocolate sprinkles milk,3.5190951476369476
+"Sugar, sweets and sweet sauces",Spread chocolate hazelnut,Spread duo with chocolate,3.7499036845477542
+"Sugar, sweets and sweet sauces",Honey,Honey,8.429369702178807e-08
+"Sugar, sweets and sweet sauces",Honey,Sugar granulated,2.9183036372502635
+"Sugar, sweets and sweet sauces",Honey,Jam,3.1521847174301105
+"Sugar, sweets and sweet sauces",Honey,Honey,8.429369702178807e-08
+"Sugar, sweets and sweet sauces",Honey,Sugar granulated,2.9183036372502635
+"Sugar, sweets and sweet sauces",Honey,Jam,3.1521847174301105
+"Sugar, sweets and sweet sauces",Ice lolly,Jam,1.9735910981043647
+"Sugar, sweets and sweet sauces",Ice lolly,Honey,3.627905998209855
+"Sugar, sweets and sweet sauces",Ice lolly,Honey,3.627905998209855
+"Sugar, sweets and sweet sauces",Jam,Ice lolly,1.9735910981043647
+"Sugar, sweets and sweet sauces",Jam,Honey,3.1521847174301105
+"Sugar, sweets and sweet sauces",Jam,Honey,3.1521847174301105
+"Sugar, sweets and sweet sauces",Sugar granulated,Honey,2.9183036372502635
+"Sugar, sweets and sweet sauces",Sugar granulated,Honey,2.9183036372502635
+"Sugar, sweets and sweet sauces",Sugar granulated,Jam,4.528726350379111
+"Sugar, sweets and sweet sauces",Syrup apple,Chocolate sprinkles dark,3.623946153361274
+"Sugar, sweets and sweet sauces",Syrup apple,Jam,3.9869660970137613
+"Sugar, sweets and sweet sauces",Syrup apple,Spread chocolate hazelnut,4.095723186806135
+Vegetables,Seaweed kelp raw,Beans French tinned,8.434219182782881
+Vegetables,Seaweed kelp raw,Beans French tinned,8.434219182782881
+Vegetables,Seaweed kelp raw,Sweetcorn tinned,8.64422424079347
+Vegetables,Bean sprouts boiled,Bean sprouts raw,0.9351038118703648
+Vegetables,Bean sprouts boiled,Cucumber without skin raw,1.8821725725579015
+Vegetables,Bean sprouts boiled,Cucumber with skin raw,2.214496000108201
+Vegetables,Bean sprouts raw,Bean sprouts boiled,0.9351038118703648
+Vegetables,Bean sprouts raw,Onions raw,1.8300836456998226
+Vegetables,Bean sprouts raw,Cucumber without skin raw,1.8345165372020904
+Vegetables,Beans French frozen boiled,Onions raw,1.338598476250751
+Vegetables,Beans French frozen boiled,Carrot boiled ,1.4237094095302598
+Vegetables,Beans French frozen boiled,Chicory raw,1.5722723343464036
+Vegetables,Beans French tinned,Beans French tinned,0.0
+Vegetables,Beans French tinned,Carrot boiled ,2.4739069245995915
+Vegetables,Beans French tinned,Cucumber without skin raw,2.6441998476677018
+Vegetables,Beans French tinned,Beans French tinned,0.0
+Vegetables,Beans French tinned,Carrot boiled ,2.4739069245995915
+Vegetables,Beans French tinned,Cucumber without skin raw,2.6441998476677018
+Vegetables,Beans French boiled,Lettuce raw,1.173576006152654
+Vegetables,Beans French boiled,Courgettes boiled,1.2104385010237404
+Vegetables,Beans French boiled,Cauliflower boiled,1.3962993847377647
+Vegetables,Broccoli boiled,Courgettes boiled,3.1360909576079
+Vegetables,Broccoli boiled,Lettuce butterhead raw,3.1545830962611148
+Vegetables,Broccoli boiled,Beans French boiled,3.333795849990004
+Vegetables,Carrot raw ,Carrot boiled ,0.5744510753425495
+Vegetables,Carrot raw ,Tomato boiled,0.9440773534387382
+Vegetables,Carrot raw ,Tomato raw,0.9975998404302161
+Vegetables,Carrot boiled ,Carrot raw ,0.5744510753425495
+Vegetables,Carrot boiled ,Tomato boiled,0.9138259157509863
+Vegetables,Carrot boiled ,Onions raw,1.038775190432879
+Vegetables,Cauliflower boiled,Chicory raw,1.0261840342342814
+Vegetables,Cauliflower boiled,Tomato boiled,1.0957263369659553
+Vegetables,Cauliflower boiled,Cucumber with skin raw,1.180465492194447
+Vegetables,Chicory raw,Cucumber with skin raw,0.43733781847435105
+Vegetables,Chicory raw,Cucumber without skin raw,0.7801221225611189
+Vegetables,Chicory raw,Tomato boiled,0.8942640229880275
+Vegetables,Chicory boiled,Chicory raw,1.1964601583090297
+Vegetables,Chicory boiled,Cucumber with skin raw,1.2020942438545472
+Vegetables,Chicory boiled,Cucumber without skin raw,1.2950181775920806
+Vegetables,Courgettes boiled,Beans French boiled,1.2104385010237404
+Vegetables,Courgettes boiled,Cauliflower boiled,1.3583644397560461
+Vegetables,Courgettes boiled,Chicory raw,1.56563569142674
+Vegetables,Cucumber with skin raw,Chicory raw,0.43733781847435105
+Vegetables,Cucumber with skin raw,Cucumber without skin raw,0.6445282152891834
+Vegetables,Cucumber with skin raw,Tomato boiled,1.0424324266229927
+Vegetables,Cucumber without skin raw,Cucumber with skin raw,0.6445282152891834
+Vegetables,Cucumber without skin raw,Chicory raw,0.7801221225611189
+Vegetables,Cucumber without skin raw,Chicory boiled,1.2950181775920806
+Vegetables,Kale curly boiled,Spinach frozen boiled,3.232046143955573
+Vegetables,Kale curly boiled,Beans French frozen boiled,6.023935065951108
+Vegetables,Kale curly boiled,Lettuce butterhead raw,6.101513121243718
+Vegetables,Lettuce raw,Beans French boiled,1.173576006152654
+Vegetables,Lettuce raw,Lettuce butterhead raw,1.224056212229971
+Vegetables,Lettuce raw,Courgettes boiled,1.6137176595703921
+Vegetables,Lettuce butterhead raw,Lettuce raw,1.224056212229971
+Vegetables,Lettuce butterhead raw,Beans French boiled,1.6582554614916825
+Vegetables,Lettuce butterhead raw,Tomato raw,1.726841923823595
+Vegetables,Mushroom boiled,Bean sprouts raw,7.407154836151906
+Vegetables,Mushroom boiled,Bean sprouts boiled,7.641941110611195
+Vegetables,Mushroom boiled,Courgettes boiled,8.019561188343378
+Vegetables,Onions raw,Carrot boiled ,1.038775190432879
+Vegetables,Onions raw,Beans French frozen boiled,1.338598476250751
+Vegetables,Onions raw,Carrot raw ,1.3450236319470834
+Vegetables,Onions boiled,Onions raw,5.658997401706015
+Vegetables,Onions boiled,Carrot boiled ,5.670524668732532
+Vegetables,Onions boiled,Beans French frozen boiled,5.686578674612556
+Vegetables,Peas and carrots tinned,Peas and carrots tinned,8.429369702178807e-08
+Vegetables,Peas and carrots tinned,Chicory boiled,5.884948858300149
+Vegetables,Peas and carrots tinned,Beans French tinned,5.992567586437627
+Vegetables,Peas and carrots tinned,Peas and carrots tinned,8.429369702178807e-08
+Vegetables,Peas and carrots tinned,Chicory boiled,5.884948858300149
+Vegetables,Peas and carrots tinned,Beans French tinned,5.992567586437627
+Vegetables,Peas frozen boiled,Sweetcorn tinned,6.428048349118881
+Vegetables,Peas frozen boiled,Sweetcorn tinned,6.428048349118881
+Vegetables,Peas frozen boiled,Onions raw,7.616764679174906
+Vegetables,Spinach frozen boiled,Kale curly boiled,3.232046143955573
+Vegetables,Spinach frozen boiled,Lettuce butterhead raw,3.679281653781655
+Vegetables,Spinach frozen boiled,Beans French boiled,4.058011823200585
+Vegetables,Sweet pepper boiled,Sweet pepper raw,6.102520262708516
+Vegetables,Sweet pepper boiled,Cauliflower boiled,6.632838251642397
+Vegetables,Sweet pepper boiled,Tomato boiled,6.6918517813069025
+Vegetables,Sweet pepper raw,Tomato raw,4.185431040143946
+Vegetables,Sweet pepper raw,Cauliflower boiled,4.2476426909057
+Vegetables,Sweet pepper raw,Tomato boiled,4.4039253663403555
+Vegetables,Sweetcorn tinned,Sweetcorn tinned,8.429369702178807e-08
+Vegetables,Sweetcorn tinned,Beans French frozen boiled,5.3043945287551795
+Vegetables,Sweetcorn tinned,Onions raw,5.359589891805007
+Vegetables,Sweetcorn tinned,Sweetcorn tinned,8.429369702178807e-08
+Vegetables,Sweetcorn tinned,Beans French frozen boiled,5.3043945287551795
+Vegetables,Sweetcorn tinned,Onions raw,5.359589891805007
+Vegetables,Tomato boiled,Tomato raw,0.871860654031684
+Vegetables,Tomato boiled,Chicory raw,0.8942640229880275
+Vegetables,Tomato boiled,Carrot boiled ,0.9138259157509862
+Vegetables,Tomato raw,Tomato boiled,0.871860654031684
+Vegetables,Tomato raw,Carrot raw ,0.9975998404302161
+Vegetables,Tomato raw,Cauliflower boiled,1.2792570200634157
